@@ -3,3 +3,10 @@
   height: 100px;
   width: 100px;
 }
+.board {
+  display: flex;
+  flex-wrap: wrap;
+  width: 410px;
+  margin: 0 auto;
+
+}
