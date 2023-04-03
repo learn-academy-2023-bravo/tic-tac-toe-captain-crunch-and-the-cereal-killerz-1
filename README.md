@@ -7,11 +7,18 @@ When creating a project it is important to think about organization of your code
 ### 📚 User Stories
 
 - As a user, I can see a three by three grid game board on the page.
-    - branch: game-board
-    - create a nine square grid (3 x 3) box
-    - 
+
+  - branch: game-board
+  - create a nine square grid (3 x 3) box
+  -
 
 - As a user, I can click on a square to mark it.
+
+  - creat branch: marked-square
+    - mark square with emoji symbol 👑 or 💎
+    - add onClick to the square div
+    - pass
+
 - As a user, my partner can click on a square after me and see their mark.
 - As a user, I can't click on a square that has already been marked.
 - As a user, when either my partner or I win the game (three squares in a row: horizontally, vertically, or diagonally) I can see a notice telling me which player won.
