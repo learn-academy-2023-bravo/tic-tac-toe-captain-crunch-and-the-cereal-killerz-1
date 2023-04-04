@@ -18,6 +18,7 @@ When creating a project it is important to think about organization of your code
     - mark square with emoji symbol 👑 or 💎
     - add onClick to the square div
     - pass
+    - if playerOne is true and (logical and: &&) strictly equal to null (===) then clickedSquare would be an "x" else !playerOne and clickedSquare === null, then "0"
 
 - As a user, my partner can click on a square after me and see their mark.
 - As a user, I can't click on a square that has already been marked.
